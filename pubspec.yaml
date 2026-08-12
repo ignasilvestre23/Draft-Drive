@@ -1,0 +1,27 @@
+name: Draft & Drive
+description: App multi-deporte con APIs reales EN VIVO
+publish_to: 'none'
+ 
+version: 1.0.0+1
+ 
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+ 
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_riverpod: ^2.4.0
+  riverpod: ^2.4.0
+  dio: ^5.3.0
+  intl: ^0.19.0
+  cached_network_image: ^3.3.0
+  cupertino_icons: ^1.0.2
+ 
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+ 
+flutter:
+  uses-material-design: true
+``` 
