@@ -1,4 +1,4 @@
-name: Draft & Drive
+name: draft_drive
 description: App multi-deporte con APIs reales EN VIVO
 publish_to: 'none'
  
@@ -24,4 +24,5 @@ dev_dependencies:
  
 flutter:
   uses-material-design: true
-``` 
+assets:
+    - assets/images/logo.png
